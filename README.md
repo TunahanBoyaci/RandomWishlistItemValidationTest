@@ -1,5 +1,5 @@
 ## Overview
-This test is to automate the process of searching for a product, adding it to a wishlist, navigating to the wishlist, and verifying that the added product appears in the wishlist. However, there are a few potential issues and improvements to consider, such as the absence of exception handling and the use of hardcoded waits, which may impact test reliability and efficiency. Additionally, the code references a login() method, which is not provided but is assumed to handle the login process.
+This test is to automate the process of searching for a product, adding it to a wishlist, navigating to the wishlist, and verifying that the added product appears in the wishlist.
 
 ## Technologies
 1) Java
